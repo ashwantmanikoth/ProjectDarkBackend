@@ -2,3 +2,4 @@
 /uploads
 .env
 __pycache__/pdf2image.cpython-313.pyc
+backend-dep.py

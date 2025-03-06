@@ -1,0 +1,4 @@
+/images
+/uploads
+.env
+__pycache__/pdf2image.cpython-313.pyc
